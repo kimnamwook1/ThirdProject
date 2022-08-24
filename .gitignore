@@ -99,11 +99,12 @@ Demo_Scene.umap
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
 /Script
 /DerivedDataCache
-/Intermediate
+/Intermediate/*
 /Package
-/Saved
+/Saved/*
 
 /Content/StarterContent
 /Content/ThirdPersonBP
 /Content/ThirdPerson
 /Content/ModularBuildingSet/Demo_Scene.umap
+/Intermediate
