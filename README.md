@@ -1,4 +1,4 @@
-# ThirdProject
+# Shooting Range
 
 ## 1. 개요
  
